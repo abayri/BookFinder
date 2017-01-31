@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#388E3C</color>
+    <color name="colorPrimaryDark">#4CAF50</color>
+    <color name="colorAccent">#C8E6C9</color>
+    <color name="colorBackground">#F1F8E9</color>
+
+    <color name="colorHint">#9E9E9E</color>
+
+    <color name="textColorBookTitle">#2B3D4D</color>
+    <color name="textColorBookAuthors">#B4BAC0</color>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Book Finder</string>
+    <string name="empty_books">No books found.</string>
+    <string name="no_connection">No internet connection.</string>
+    <string name="title_page_message">Discover what lies within Google Books API!</string>
+    <string name="search_hint">Genre, Title, Author, etc.</string>
+    <string name="button_text">Search</string>
+    <string name="list_item_description">The list item will contain a book icon, the book title and the author.</string>
+</resources>
